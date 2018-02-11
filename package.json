@@ -1,0 +1,23 @@
+{
+  "name": "bs-nodejs",
+  "version": "1.0.0",
+  "description": "7in14@Bartosz",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7in14/bs-nodejs.git"
+  },
+  "author": "Bart Starczewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7in14/bs-nodejs/issues"
+  },
+  "homepage": "https://github.com/7in14/bs-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
