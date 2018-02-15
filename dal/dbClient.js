@@ -4,10 +4,10 @@ module.exports = function() {
         const mongoClient = require('mongodb').MongoClient
 
         //todo move connection string to configuration
-        mongoClient.connect("mongodb://@7in14-db.documents.azure.com:10255/?ssl=true", {
+        mongoClient.connect('', {
             auth: {
             user: '7in14-db',
-            password: 'CIDWd20A5KCQMXYTSxYHbGlbm4SbwLj1z6yuoK6BwQCCgpjlzdc55VkCeLqRU4EWCUdsW1aDTq7H1SVJQN1BiA==',
+            password: '',
             }
         }, function (err, connection) {
             command(connection)                
