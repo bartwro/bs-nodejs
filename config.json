@@ -1,7 +1,5 @@
 {
-    "raleighPoliceUrl": "https://data.raleighnc.gov/Police/Daily-Police-Incidents/guyh-emm5",
-    "mongoConnectionString":  "mongodb://7in14-db:CIDWd20A5KCQMXYTSxYHbGlbm4SbwLj1z6yuoK6BwQCCgpjlzdc55VkCeLqRU4EWCUdsW1aDTq7H1SVJQN1BiA==@7in14-db.documents.azure.com:10255/?ssl=true",
-    "mongoUrl": "mongodb://@7in14-db.documents.azure.com:10255/?ssl=true",
-    "mongoUser": "7in14-db",
-    "mongoPass": "CIDWd20A5KCQMXYTSxYHbGlbm4SbwLj1z6yuoK6BwQCCgpjlzdc55VkCeLqRU4EWCUdsW1aDTq7H1SVJQN1BiA=="
+    "raleighPoliceUrl": "",
+    "mongoUrl": "",
+    "mongoUser": "7in14-db"
 }
